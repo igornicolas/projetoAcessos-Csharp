@@ -1,0 +1,12 @@
+C:\Users\igorn\source\repos\ProjetoAcessosFila\ProjetoAcessosFila\obj\Debug\ProjetoAcessosFila.csprojAssemblyReference.cache
+C:\Users\igorn\source\repos\ProjetoAcessosFila\ProjetoAcessosFila\bin\Debug\ProjetoAcessosFila.exe.config
+C:\Users\igorn\source\repos\ProjetoAcessosFila\ProjetoAcessosFila\bin\Debug\ProjetoAcessosFila.exe
+C:\Users\igorn\source\repos\ProjetoAcessosFila\ProjetoAcessosFila\bin\Debug\ProjetoAcessosFila.pdb
+C:\Users\igorn\source\repos\ProjetoAcessosFila\ProjetoAcessosFila\obj\Debug\ProjetoAcessosFila.exe
+C:\Users\igorn\source\repos\ProjetoAcessosFila\ProjetoAcessosFila\obj\Debug\ProjetoAcessosFila.pdb
+C:\Users\Sandro\Downloads\projAcessos\ProjetoAcessosFila\ProjetoAcessosFila\bin\Debug\ProjetoAcessosFila.exe.config
+C:\Users\Sandro\Downloads\projAcessos\ProjetoAcessosFila\ProjetoAcessosFila\bin\Debug\ProjetoAcessosFila.exe
+C:\Users\Sandro\Downloads\projAcessos\ProjetoAcessosFila\ProjetoAcessosFila\bin\Debug\ProjetoAcessosFila.pdb
+C:\Users\Sandro\Downloads\projAcessos\ProjetoAcessosFila\ProjetoAcessosFila\obj\Debug\ProjetoAcessosFila.csprojAssemblyReference.cache
+C:\Users\Sandro\Downloads\projAcessos\ProjetoAcessosFila\ProjetoAcessosFila\obj\Debug\ProjetoAcessosFila.exe
+C:\Users\Sandro\Downloads\projAcessos\ProjetoAcessosFila\ProjetoAcessosFila\obj\Debug\ProjetoAcessosFila.pdb
